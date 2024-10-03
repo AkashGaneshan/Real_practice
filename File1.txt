@@ -1,0 +1,9 @@
+class example;
+
+ rand int a;
+ rand int b;
+
+ constraint c1 {a != b;}
+
+ 
+endclass
